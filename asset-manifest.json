@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dkeeper-app/static/js/main.b0f7ea3e.js",
+    "index.html": "/dkeeper-app/index.html",
+    "main.b0f7ea3e.js.map": "/dkeeper-app/static/js/main.b0f7ea3e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b0f7ea3e.js"
+  ]
+}
